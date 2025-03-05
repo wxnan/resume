@@ -21,15 +21,15 @@
 ## 教育背景
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <h3 style="font-weight: normal;">2020.09 - 2024.06</h3>
+    <div style="flex: 1; text-align: left;">2020.09 - 2024.06</div>
     <div style="flex: 1; text-align: center;">八爪科技大学</div>
-    <span>某某专业（1/100）</span>
+    <div style="flex: 1; text-align: right;">某某专业（1/100）</div>
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <h3 style="font-weight: normal;">2008.09 - 2020.06</h3>
+    <div style="flex: 1; text-align: left;">2024.09 - 至今</div>
     <div style="flex: 1; text-align: center;">八爪科技大学</div>
-    <span>某某专业（1/150）</span>
+    <div style="flex: 1; text-align: right;">某某专业（1/150）</div>
 </div>
 
 - 研究方向：人工智能、深度学习、计算机视觉、机器人、自动驾驶
@@ -38,9 +38,9 @@
 ## 工作经历
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <h3 style="font-weight: normal;">2024.09 - 至今</h3>
+    <div style="flex: 1; text-align: left;">2024.09 - 至今</div>
     <div style="flex: 1; text-align: center;">八爪科技公司</div>
-    <span>算法工程师</span>
+    <div style="flex: 1; text-align: right;">算法工程师</div>
 </div>
 
 - **协助解决技术问题，展现解决问题的技巧和在快节奏环境下积极主动解决挑战的态度。**
@@ -49,9 +49,9 @@
 ## 项目经历
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <h3 style="font-weight: normal;">2024.09 - 至今</h3>
-    <div style="flex: 1; text-align: center;">项目名1</div>
-    <span>技术负责人</span>
+    <div style="flex: 1; text-align: left;"><strong>2024.09 - 至今</strong></div>
+    <div style="flex: 1; text-align: center;"><strong>项目名1</strong></div>
+    <div style="flex: 1; text-align: right;"><strong>技术负责人</strong></div>
 </div>
 
 - **全栈 Web 应用程序，前端使用 Octo.js，后端使用 OctoScript**，允许用户发现和评价八爪生物主题电影。
@@ -59,9 +59,9 @@
 - **使用 JSON Web Tokens 和 bcrypt 实现用户身份验证和授权**，用于安全密码哈希。**利用 GitHub Actions 进行持续集成和部署**，确保流畅高效的开发工作流程。
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <h3 style="font-weight: normal;">2024.09 - 至今</h3>
-    <div style="flex: 1; text-align: center;">项目名2</div>
-    <span>核心成员</span>
+    <div style="flex: 1; text-align: left;"><strong>2024.09 - 至今</strong></div>
+    <div style="flex: 1; text-align: center;"><strong>项目名2</strong></div>
+    <div style="flex: 1; text-align: right;"><strong>核心成员</strong></div>
 </div>
 
 - 团队项目，**使用 OctoDB 和 Octolang 创建八爪生物社交平台**。
@@ -69,9 +69,9 @@
 - **集成 OAuth 认证，与 GitHub 账户进行同步**，为 Octocat 和其他在 GitHub 上活跃的八爪生物提供无缝登录和个人资料同步。
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <h3 style="font-weight: normal;">2024.09 - 至今</h3>
-    <div style="flex: 1; text-align: center;">项目名3</div>
-    <span>技术骨干</span>
+    <div style="flex: 1; text-align: left;"><strong>2024.09 - 至今</strong></div>
+    <div style="flex: 1; text-align: center;"><strong>项目名3</strong></div>
+    <div style="flex: 1; text-align: right;"><strong>技术骨干</strong></div>
 </div>
 
 - **一款专门针对八爪生物的 GitHub 活动和贡献的网络应用程序**，利用 Octo.js 构建前端，Octolang 构建后端。
@@ -81,27 +81,27 @@
 ## 竞赛经历
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <h3 style="font-weight: normal;">2024.06</h3>
-    <div style="flex: 1; text-align: center;">八爪科技竞赛</div>
-    <span>一等奖</span>
+    <div style="flex: 1; text-align: left;">2024.06</div>
+    <div style="flex: 2; text-align: center;">八爪科技竞赛</div>
+    <div style="flex: 1; text-align: right;">一等奖</div>
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <h3 style="font-weight: normal;">2022.09</h3>
-    <div style="flex: 1; text-align: center;">八爪科技竞赛</div>
-    <span>一等奖</span>
+    <div style="flex: 1; text-align: left;">2022.06</div>
+    <div style="flex: 2; text-align: center;">八爪科技竞赛</div>
+    <div style="flex: 1; text-align: right;">一等奖</div>
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <h3 style="font-weight: normal;">2020.09</h3>
-    <div style="flex: 1; text-align: center;">八爪科技竞赛</div>
-    <span>一等奖</span>
+    <div style="flex: 1; text-align: left;">2020.06</div>
+    <div style="flex: 2; text-align: center;">八爪科技竞赛</div>
+    <div style="flex: 1; text-align: right;">一等奖</div>
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <h3 style="font-weight: normal;">2018.09</h3>
-    <div style="flex: 1; text-align: center;">八爪科技竞赛</div>
-    <span>一等奖</span>
+    <div style="flex: 1; text-align: left;">2018.06</div>
+    <div style="flex: 2; text-align: center;">八爪科技竞赛</div>
+    <div style="flex: 1; text-align: right;">一等奖</div>
 </div>
 
 ## 荣誉奖励
